@@ -1,0 +1,9 @@
+[Gameplay]
+
+[TODO]
+[x] - Create the plane controller
+[x] - Create the camera controller
+[x] - Create some bombs to mess around with.
+[x] - Implement a simple health system, than can also be expanded upon easily.
+
+[] - Come up with what you're actually going to do in this game.
